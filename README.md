@@ -1,4 +1,4 @@
-## Algoritmos De Ordenamient
+## Algoritmos De Ordenamiento
 
 Este proyecto implementa diversos algoritmos de ordenamiento en C# con una interfaz de consola que permite al usuario:
 
